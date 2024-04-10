@@ -132,6 +132,8 @@ void loop()
 # CIRCUIT DIAGRAM:
 
 # OUTPUT:
+<img src= image.png width=400 height=300>
+<img src= image-1.png width=200 height=300>
 
 # RESULT:
 
