@@ -130,6 +130,7 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
+![image](https://github.com/Sabariakash22009103/Uploading-sensor-data-in-Thing-Speak-cloud/assets/119390227/528a556c-ccd8-4511-bcba-966fa251db62)
 
 # OUTPUT:
 <img src= image.png width=400 height=300>
