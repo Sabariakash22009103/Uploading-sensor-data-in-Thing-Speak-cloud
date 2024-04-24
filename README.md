@@ -1,4 +1,7 @@
-# Uploading temperature sensor data in Thing Speak cloud
+# EXP-03  Uploading temperature sensor data in Thing Speak cloud
+## Name: Sabari Akash A
+## Reg NO: 212222230124
+
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
