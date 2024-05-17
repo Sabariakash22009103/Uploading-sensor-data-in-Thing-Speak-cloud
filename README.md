@@ -74,24 +74,24 @@ Automatically act on your data and communicate using third-party services like T
 
 
 # PROGRAM:
-```c
+```
 #include <Ethernet.h>
 
 #include"ThingSpeak.h"
 #include<WiFi.h>
 #include "DHT.h"
 
-char ssid[]="Aagaaaas";
-char pass[]="axashhhhh";
+char ssid[]="GalaxyA30sBA5D";
+char pass[]="0123456789";
 
 const int t=25;
 WiFiClient client;
 DHT dht(25, DHT11);
 
-unsigned long myChannelField = 2502976;
+unsigned long myChannelField = 2503070;
 const int ChannelField1 = 1 ;
 const int ChannelField2 = 2 ;
-const char *myWriteAPIKey="67Q4UNC5TTCR7RUG";
+const char *myWriteAPIKey="VWH5HCQ3X9VDQZ4Z";
 
 void setup()
 {
@@ -133,11 +133,10 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-![image](https://github.com/Sabariakash22009103/Uploading-sensor-data-in-Thing-Speak-cloud/assets/119390227/528a556c-ccd8-4511-bcba-966fa251db62)
+![crct drgm](https://github.com/vishal21004/Uploading-sensor-data-in-Thing-Speak-cloud/assets/119560110/95ebcfbb-aa0a-4926-860f-f182378b1266)
 
 # OUTPUT:
-<img src= image.png width=400 height=300>
-<img src= image-1.png width=200 height=300>
+![thngspk](https://github.com/vishal21004/Uploading-sensor-data-in-Thing-Speak-cloud/assets/119560110/8c4db44d-158c-4e00-ae27-107235cb4933)
 
 # RESULT:
 
